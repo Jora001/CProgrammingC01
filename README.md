@@ -1,0 +1,1 @@
+I have completed exercises using the C programming language, inspired by the exercises from the C Piscine c01 manual. These tasks helped me strengthen my foundational programming skills and improve my understanding of C language concepts.
